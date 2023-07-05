@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "node -r esbuild-runner/register"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.6",
+    "esbuild": "^0.18.11",
+    "esbuild-runner": "^2.2.2"
+  }
+}
